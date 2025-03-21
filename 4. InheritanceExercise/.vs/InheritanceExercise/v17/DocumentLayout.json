@@ -1,0 +1,853 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23920482-0658-4B8F-AADF-F7AC11015041}|Animals\\Animals.csproj|c:\\softuni\\c# oop\\4. inheritanceexercise\\animals\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23920482-0658-4B8F-AADF-F7AC11015041}|Animals\\Animals.csproj|solutionrelative:animals\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23920482-0658-4B8F-AADF-F7AC11015041}|Animals\\Animals.csproj|c:\\softuni\\c# oop\\4. inheritanceexercise\\animals\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23920482-0658-4B8F-AADF-F7AC11015041}|Animals\\Animals.csproj|solutionrelative:animals\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23920482-0658-4B8F-AADF-F7AC11015041}|Animals\\Animals.csproj|c:\\softuni\\c# oop\\4. inheritanceexercise\\animals\\tomcat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23920482-0658-4B8F-AADF-F7AC11015041}|Animals\\Animals.csproj|solutionrelative:animals\\tomcat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23920482-0658-4B8F-AADF-F7AC11015041}|Animals\\Animals.csproj|c:\\softuni\\c# oop\\4. inheritanceexercise\\animals\\kitten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23920482-0658-4B8F-AADF-F7AC11015041}|Animals\\Animals.csproj|solutionrelative:animals\\kitten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23920482-0658-4B8F-AADF-F7AC11015041}|Animals\\Animals.csproj|c:\\softuni\\c# oop\\4. inheritanceexercise\\animals\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23920482-0658-4B8F-AADF-F7AC11015041}|Animals\\Animals.csproj|solutionrelative:animals\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23920482-0658-4B8F-AADF-F7AC11015041}|Animals\\Animals.csproj|c:\\softuni\\c# oop\\4. inheritanceexercise\\animals\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23920482-0658-4B8F-AADF-F7AC11015041}|Animals\\Animals.csproj|solutionrelative:animals\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23920482-0658-4B8F-AADF-F7AC11015041}|Animals\\Animals.csproj|c:\\softuni\\c# oop\\4. inheritanceexercise\\animals\\frog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23920482-0658-4B8F-AADF-F7AC11015041}|Animals\\Animals.csproj|solutionrelative:animals\\frog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|c:\\softuni\\c# oop\\4. inheritanceexercise\\restaurant\\beverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\beverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|c:\\softuni\\c# oop\\4. inheritanceexercise\\restaurant\\tea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\tea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|c:\\softuni\\c# oop\\4. inheritanceexercise\\restaurant\\cake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\cake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|c:\\softuni\\c# oop\\4. inheritanceexercise\\restaurant\\soup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\soup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|c:\\softuni\\c# oop\\4. inheritanceexercise\\restaurant\\fish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\fish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|c:\\softuni\\c# oop\\4. inheritanceexercise\\restaurant\\dessert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\dessert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|c:\\softuni\\c# oop\\4. inheritanceexercise\\restaurant\\starter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\starter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|c:\\softuni\\c# oop\\4. inheritanceexercise\\restaurant\\maindish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\maindish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|c:\\softuni\\c# oop\\4. inheritanceexercise\\restaurant\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|c:\\softuni\\c# oop\\4. inheritanceexercise\\restaurant\\coffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\coffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|c:\\softuni\\c# oop\\4. inheritanceexercise\\restaurant\\coldbeverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\coldbeverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|c:\\softuni\\c# oop\\4. inheritanceexercise\\restaurant\\hotbeverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\hotbeverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|c:\\softuni\\c# oop\\4. inheritanceexercise\\restaurant\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F792C3A4-D2E2-4C16-8D26-A556D32CDEBD}|NeedForSpeed\\NeedForSpeed.csproj|c:\\softuni\\c# oop\\4. inheritanceexercise\\needforspeed\\sportcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F792C3A4-D2E2-4C16-8D26-A556D32CDEBD}|NeedForSpeed\\NeedForSpeed.csproj|solutionrelative:needforspeed\\sportcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F792C3A4-D2E2-4C16-8D26-A556D32CDEBD}|NeedForSpeed\\NeedForSpeed.csproj|c:\\softuni\\c# oop\\4. inheritanceexercise\\needforspeed\\familycar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F792C3A4-D2E2-4C16-8D26-A556D32CDEBD}|NeedForSpeed\\NeedForSpeed.csproj|solutionrelative:needforspeed\\familycar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F792C3A4-D2E2-4C16-8D26-A556D32CDEBD}|NeedForSpeed\\NeedForSpeed.csproj|c:\\softuni\\c# oop\\4. inheritanceexercise\\needforspeed\\crossmotorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F792C3A4-D2E2-4C16-8D26-A556D32CDEBD}|NeedForSpeed\\NeedForSpeed.csproj|solutionrelative:needforspeed\\crossmotorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F792C3A4-D2E2-4C16-8D26-A556D32CDEBD}|NeedForSpeed\\NeedForSpeed.csproj|c:\\softuni\\c# oop\\4. inheritanceexercise\\needforspeed\\racemotorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F792C3A4-D2E2-4C16-8D26-A556D32CDEBD}|NeedForSpeed\\NeedForSpeed.csproj|solutionrelative:needforspeed\\racemotorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F792C3A4-D2E2-4C16-8D26-A556D32CDEBD}|NeedForSpeed\\NeedForSpeed.csproj|c:\\softuni\\c# oop\\4. inheritanceexercise\\needforspeed\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F792C3A4-D2E2-4C16-8D26-A556D32CDEBD}|NeedForSpeed\\NeedForSpeed.csproj|solutionrelative:needforspeed\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F792C3A4-D2E2-4C16-8D26-A556D32CDEBD}|NeedForSpeed\\NeedForSpeed.csproj|c:\\softuni\\c# oop\\4. inheritanceexercise\\needforspeed\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F792C3A4-D2E2-4C16-8D26-A556D32CDEBD}|NeedForSpeed\\NeedForSpeed.csproj|solutionrelative:needforspeed\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F792C3A4-D2E2-4C16-8D26-A556D32CDEBD}|NeedForSpeed\\NeedForSpeed.csproj|c:\\softuni\\c# oop\\4. inheritanceexercise\\needforspeed\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F792C3A4-D2E2-4C16-8D26-A556D32CDEBD}|NeedForSpeed\\NeedForSpeed.csproj|solutionrelative:needforspeed\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F792C3A4-D2E2-4C16-8D26-A556D32CDEBD}|NeedForSpeed\\NeedForSpeed.csproj|c:\\softuni\\c# oop\\4. inheritanceexercise\\needforspeed\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F792C3A4-D2E2-4C16-8D26-A556D32CDEBD}|NeedForSpeed\\NeedForSpeed.csproj|solutionrelative:needforspeed\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2249E70-2FC3-4800-AC7F-7FAC380007AD}|PlayersAndMonsters\\PlayersAndMonsters.csproj|c:\\softuni\\c# oop\\4. inheritanceexercise\\playersandmonsters\\bladeknight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2249E70-2FC3-4800-AC7F-7FAC380007AD}|PlayersAndMonsters\\PlayersAndMonsters.csproj|solutionrelative:playersandmonsters\\bladeknight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2249E70-2FC3-4800-AC7F-7FAC380007AD}|PlayersAndMonsters\\PlayersAndMonsters.csproj|c:\\softuni\\c# oop\\4. inheritanceexercise\\playersandmonsters\\soulmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2249E70-2FC3-4800-AC7F-7FAC380007AD}|PlayersAndMonsters\\PlayersAndMonsters.csproj|solutionrelative:playersandmonsters\\soulmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2249E70-2FC3-4800-AC7F-7FAC380007AD}|PlayersAndMonsters\\PlayersAndMonsters.csproj|c:\\softuni\\c# oop\\4. inheritanceexercise\\playersandmonsters\\darkknight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2249E70-2FC3-4800-AC7F-7FAC380007AD}|PlayersAndMonsters\\PlayersAndMonsters.csproj|solutionrelative:playersandmonsters\\darkknight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2249E70-2FC3-4800-AC7F-7FAC380007AD}|PlayersAndMonsters\\PlayersAndMonsters.csproj|c:\\softuni\\c# oop\\4. inheritanceexercise\\playersandmonsters\\darkwizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2249E70-2FC3-4800-AC7F-7FAC380007AD}|PlayersAndMonsters\\PlayersAndMonsters.csproj|solutionrelative:playersandmonsters\\darkwizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2249E70-2FC3-4800-AC7F-7FAC380007AD}|PlayersAndMonsters\\PlayersAndMonsters.csproj|c:\\softuni\\c# oop\\4. inheritanceexercise\\playersandmonsters\\museelf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2249E70-2FC3-4800-AC7F-7FAC380007AD}|PlayersAndMonsters\\PlayersAndMonsters.csproj|solutionrelative:playersandmonsters\\museelf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2249E70-2FC3-4800-AC7F-7FAC380007AD}|PlayersAndMonsters\\PlayersAndMonsters.csproj|c:\\softuni\\c# oop\\4. inheritanceexercise\\playersandmonsters\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2249E70-2FC3-4800-AC7F-7FAC380007AD}|PlayersAndMonsters\\PlayersAndMonsters.csproj|solutionrelative:playersandmonsters\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2249E70-2FC3-4800-AC7F-7FAC380007AD}|PlayersAndMonsters\\PlayersAndMonsters.csproj|c:\\softuni\\c# oop\\4. inheritanceexercise\\playersandmonsters\\wizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2249E70-2FC3-4800-AC7F-7FAC380007AD}|PlayersAndMonsters\\PlayersAndMonsters.csproj|solutionrelative:playersandmonsters\\wizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2249E70-2FC3-4800-AC7F-7FAC380007AD}|PlayersAndMonsters\\PlayersAndMonsters.csproj|c:\\softuni\\c# oop\\4. inheritanceexercise\\playersandmonsters\\elf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2249E70-2FC3-4800-AC7F-7FAC380007AD}|PlayersAndMonsters\\PlayersAndMonsters.csproj|solutionrelative:playersandmonsters\\elf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2249E70-2FC3-4800-AC7F-7FAC380007AD}|PlayersAndMonsters\\PlayersAndMonsters.csproj|c:\\softuni\\c# oop\\4. inheritanceexercise\\playersandmonsters\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2249E70-2FC3-4800-AC7F-7FAC380007AD}|PlayersAndMonsters\\PlayersAndMonsters.csproj|solutionrelative:playersandmonsters\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2249E70-2FC3-4800-AC7F-7FAC380007AD}|PlayersAndMonsters\\PlayersAndMonsters.csproj|c:\\softuni\\c# oop\\4. inheritanceexercise\\playersandmonsters\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2249E70-2FC3-4800-AC7F-7FAC380007AD}|PlayersAndMonsters\\PlayersAndMonsters.csproj|solutionrelative:playersandmonsters\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9930D442-7F88-406E-AAE0-9461DB0B329E}|Zoo\\Zoo.csproj|c:\\softuni\\c# oop\\4. inheritanceexercise\\zoo\\bear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9930D442-7F88-406E-AAE0-9461DB0B329E}|Zoo\\Zoo.csproj|solutionrelative:zoo\\bear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9930D442-7F88-406E-AAE0-9461DB0B329E}|Zoo\\Zoo.csproj|c:\\softuni\\c# oop\\4. inheritanceexercise\\zoo\\gorilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9930D442-7F88-406E-AAE0-9461DB0B329E}|Zoo\\Zoo.csproj|solutionrelative:zoo\\gorilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9930D442-7F88-406E-AAE0-9461DB0B329E}|Zoo\\Zoo.csproj|c:\\softuni\\c# oop\\4. inheritanceexercise\\zoo\\mammal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9930D442-7F88-406E-AAE0-9461DB0B329E}|Zoo\\Zoo.csproj|solutionrelative:zoo\\mammal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9930D442-7F88-406E-AAE0-9461DB0B329E}|Zoo\\Zoo.csproj|c:\\softuni\\c# oop\\4. inheritanceexercise\\zoo\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9930D442-7F88-406E-AAE0-9461DB0B329E}|Zoo\\Zoo.csproj|solutionrelative:zoo\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9930D442-7F88-406E-AAE0-9461DB0B329E}|Zoo\\Zoo.csproj|c:\\softuni\\c# oop\\4. inheritanceexercise\\zoo\\lizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9930D442-7F88-406E-AAE0-9461DB0B329E}|Zoo\\Zoo.csproj|solutionrelative:zoo\\lizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9930D442-7F88-406E-AAE0-9461DB0B329E}|Zoo\\Zoo.csproj|c:\\softuni\\c# oop\\4. inheritanceexercise\\zoo\\reptile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9930D442-7F88-406E-AAE0-9461DB0B329E}|Zoo\\Zoo.csproj|solutionrelative:zoo\\reptile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9930D442-7F88-406E-AAE0-9461DB0B329E}|Zoo\\Zoo.csproj|c:\\softuni\\c# oop\\4. inheritanceexercise\\zoo\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9930D442-7F88-406E-AAE0-9461DB0B329E}|Zoo\\Zoo.csproj|solutionrelative:zoo\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9930D442-7F88-406E-AAE0-9461DB0B329E}|Zoo\\Zoo.csproj|c:\\softuni\\c# oop\\4. inheritanceexercise\\zoo\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9930D442-7F88-406E-AAE0-9461DB0B329E}|Zoo\\Zoo.csproj|solutionrelative:zoo\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B017C35F-8072-418C-9ECE-29BC667A118C}|Person\\Person.csproj|c:\\softuni\\c# oop\\4. inheritanceexercise\\person\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B017C35F-8072-418C-9ECE-29BC667A118C}|Person\\Person.csproj|solutionrelative:person\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B017C35F-8072-418C-9ECE-29BC667A118C}|Person\\Person.csproj|c:\\softuni\\c# oop\\4. inheritanceexercise\\person\\child.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B017C35F-8072-418C-9ECE-29BC667A118C}|Person\\Person.csproj|solutionrelative:person\\child.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B017C35F-8072-418C-9ECE-29BC667A118C}|Person\\Person.csproj|c:\\softuni\\c# oop\\4. inheritanceexercise\\person\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B017C35F-8072-418C-9ECE-29BC667A118C}|Person\\Person.csproj|solutionrelative:person\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tomcat.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\Animals\\Tomcat.cs",
+              "RelativeDocumentMoniker": "Animals\\Tomcat.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\Animals\\Tomcat.cs",
+              "RelativeToolTip": "Animals\\Tomcat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T20:56:48.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Kitten.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\Animals\\Kitten.cs",
+              "RelativeDocumentMoniker": "Animals\\Kitten.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\Animals\\Kitten.cs",
+              "RelativeToolTip": "Animals\\Kitten.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T20:55:00.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\Animals\\Cat.cs",
+              "RelativeDocumentMoniker": "Animals\\Cat.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\Animals\\Cat.cs",
+              "RelativeToolTip": "Animals\\Cat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T20:54:21.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\Animals\\Dog.cs",
+              "RelativeDocumentMoniker": "Animals\\Dog.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\Animals\\Dog.cs",
+              "RelativeToolTip": "Animals\\Dog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T20:51:50.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\Animals\\Animal.cs",
+              "RelativeDocumentMoniker": "Animals\\Animal.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\Animals\\Animal.cs",
+              "RelativeToolTip": "Animals\\Animal.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T20:46:00.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\Animals\\StartUp.cs",
+              "RelativeDocumentMoniker": "Animals\\StartUp.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\Animals\\StartUp.cs",
+              "RelativeToolTip": "Animals\\StartUp.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAzwAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T20:45:56.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Frog.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\Animals\\Frog.cs",
+              "RelativeDocumentMoniker": "Animals\\Frog.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\Animals\\Frog.cs",
+              "RelativeToolTip": "Animals\\Frog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T20:52:45.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Tea.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\Restaurant\\Tea.cs",
+              "RelativeDocumentMoniker": "Restaurant\\Tea.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\Restaurant\\Tea.cs",
+              "RelativeToolTip": "Restaurant\\Tea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:33:50.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Soup.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\Restaurant\\Soup.cs",
+              "RelativeDocumentMoniker": "Restaurant\\Soup.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\Restaurant\\Soup.cs",
+              "RelativeToolTip": "Restaurant\\Soup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:29:30.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Fish.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\Restaurant\\Fish.cs",
+              "RelativeDocumentMoniker": "Restaurant\\Fish.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\Restaurant\\Fish.cs",
+              "RelativeToolTip": "Restaurant\\Fish.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:27:35.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Dessert.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\Restaurant\\Dessert.cs",
+              "RelativeDocumentMoniker": "Restaurant\\Dessert.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\Restaurant\\Dessert.cs",
+              "RelativeToolTip": "Restaurant\\Dessert.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:26:20.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Starter.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\Restaurant\\Starter.cs",
+              "RelativeDocumentMoniker": "Restaurant\\Starter.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\Restaurant\\Starter.cs",
+              "RelativeToolTip": "Restaurant\\Starter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:26:02.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Beverage.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\Restaurant\\Beverage.cs",
+              "RelativeDocumentMoniker": "Restaurant\\Beverage.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\Restaurant\\Beverage.cs",
+              "RelativeToolTip": "Restaurant\\Beverage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:15:53.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cake.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\Restaurant\\Cake.cs",
+              "RelativeDocumentMoniker": "Restaurant\\Cake.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\Restaurant\\Cake.cs",
+              "RelativeToolTip": "Restaurant\\Cake.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:30:21.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainDish.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\Restaurant\\MainDish.cs",
+              "RelativeDocumentMoniker": "Restaurant\\MainDish.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\Restaurant\\MainDish.cs",
+              "RelativeToolTip": "Restaurant\\MainDish.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:25:15.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\Restaurant\\Food.cs",
+              "RelativeDocumentMoniker": "Restaurant\\Food.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\Restaurant\\Food.cs",
+              "RelativeToolTip": "Restaurant\\Food.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:23:55.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Coffee.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\Restaurant\\Coffee.cs",
+              "RelativeDocumentMoniker": "Restaurant\\Coffee.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\Restaurant\\Coffee.cs",
+              "RelativeToolTip": "Restaurant\\Coffee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:19:04.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ColdBeverage.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\Restaurant\\ColdBeverage.cs",
+              "RelativeDocumentMoniker": "Restaurant\\ColdBeverage.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\Restaurant\\ColdBeverage.cs",
+              "RelativeToolTip": "Restaurant\\ColdBeverage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:18:28.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HotBeverage.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\Restaurant\\HotBeverage.cs",
+              "RelativeDocumentMoniker": "Restaurant\\HotBeverage.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\Restaurant\\HotBeverage.cs",
+              "RelativeToolTip": "Restaurant\\HotBeverage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:17:43.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\Restaurant\\Product.cs",
+              "RelativeDocumentMoniker": "Restaurant\\Product.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\Restaurant\\Product.cs",
+              "RelativeToolTip": "Restaurant\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:14:52.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SportCar.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\NeedForSpeed\\SportCar.cs",
+              "RelativeDocumentMoniker": "NeedForSpeed\\SportCar.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\NeedForSpeed\\SportCar.cs",
+              "RelativeToolTip": "NeedForSpeed\\SportCar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:13:26.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FamilyCar.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\NeedForSpeed\\FamilyCar.cs",
+              "RelativeDocumentMoniker": "NeedForSpeed\\FamilyCar.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\NeedForSpeed\\FamilyCar.cs",
+              "RelativeToolTip": "NeedForSpeed\\FamilyCar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:12:49.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CrossMotorcycle.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\NeedForSpeed\\CrossMotorcycle.cs",
+              "RelativeDocumentMoniker": "NeedForSpeed\\CrossMotorcycle.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\NeedForSpeed\\CrossMotorcycle.cs",
+              "RelativeToolTip": "NeedForSpeed\\CrossMotorcycle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:11:58.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RaceMotorcycle.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\NeedForSpeed\\RaceMotorcycle.cs",
+              "RelativeDocumentMoniker": "NeedForSpeed\\RaceMotorcycle.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\NeedForSpeed\\RaceMotorcycle.cs",
+              "RelativeToolTip": "NeedForSpeed\\RaceMotorcycle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:10:58.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\NeedForSpeed\\Car.cs",
+              "RelativeDocumentMoniker": "NeedForSpeed\\Car.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\NeedForSpeed\\Car.cs",
+              "RelativeToolTip": "NeedForSpeed\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:08:40.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Motorcycle.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\NeedForSpeed\\Motorcycle.cs",
+              "RelativeDocumentMoniker": "NeedForSpeed\\Motorcycle.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\NeedForSpeed\\Motorcycle.cs",
+              "RelativeToolTip": "NeedForSpeed\\Motorcycle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:07:38.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\NeedForSpeed\\Vehicle.cs",
+              "RelativeDocumentMoniker": "NeedForSpeed\\Vehicle.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\NeedForSpeed\\Vehicle.cs",
+              "RelativeToolTip": "NeedForSpeed\\Vehicle.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:00:21.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\NeedForSpeed\\StartUp.cs",
+              "RelativeDocumentMoniker": "NeedForSpeed\\StartUp.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\NeedForSpeed\\StartUp.cs",
+              "RelativeToolTip": "NeedForSpeed\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T16:59:48.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BladeKnight.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\PlayersAndMonsters\\BladeKnight.cs",
+              "RelativeDocumentMoniker": "PlayersAndMonsters\\BladeKnight.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\PlayersAndMonsters\\BladeKnight.cs",
+              "RelativeToolTip": "PlayersAndMonsters\\BladeKnight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T16:58:03.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SoulMaster.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\PlayersAndMonsters\\SoulMaster.cs",
+              "RelativeDocumentMoniker": "PlayersAndMonsters\\SoulMaster.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\PlayersAndMonsters\\SoulMaster.cs",
+              "RelativeToolTip": "PlayersAndMonsters\\SoulMaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T16:57:28.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DarkKnight.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\PlayersAndMonsters\\DarkKnight.cs",
+              "RelativeDocumentMoniker": "PlayersAndMonsters\\DarkKnight.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\PlayersAndMonsters\\DarkKnight.cs",
+              "RelativeToolTip": "PlayersAndMonsters\\DarkKnight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T16:56:40.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DarkWizard.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\PlayersAndMonsters\\DarkWizard.cs",
+              "RelativeDocumentMoniker": "PlayersAndMonsters\\DarkWizard.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\PlayersAndMonsters\\DarkWizard.cs",
+              "RelativeToolTip": "PlayersAndMonsters\\DarkWizard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T16:56:12.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "MuseElf.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\PlayersAndMonsters\\MuseElf.cs",
+              "RelativeDocumentMoniker": "PlayersAndMonsters\\MuseElf.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\PlayersAndMonsters\\MuseElf.cs",
+              "RelativeToolTip": "PlayersAndMonsters\\MuseElf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T16:55:45.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Knight.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\PlayersAndMonsters\\Knight.cs",
+              "RelativeDocumentMoniker": "PlayersAndMonsters\\Knight.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\PlayersAndMonsters\\Knight.cs",
+              "RelativeToolTip": "PlayersAndMonsters\\Knight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T16:55:23.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Wizard.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\PlayersAndMonsters\\Wizard.cs",
+              "RelativeDocumentMoniker": "PlayersAndMonsters\\Wizard.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\PlayersAndMonsters\\Wizard.cs",
+              "RelativeToolTip": "PlayersAndMonsters\\Wizard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T16:54:56.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Elf.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\PlayersAndMonsters\\Elf.cs",
+              "RelativeDocumentMoniker": "PlayersAndMonsters\\Elf.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\PlayersAndMonsters\\Elf.cs",
+              "RelativeToolTip": "PlayersAndMonsters\\Elf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T16:54:05.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Hero.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\PlayersAndMonsters\\Hero.cs",
+              "RelativeDocumentMoniker": "PlayersAndMonsters\\Hero.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\PlayersAndMonsters\\Hero.cs",
+              "RelativeToolTip": "PlayersAndMonsters\\Hero.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T16:52:39.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\PlayersAndMonsters\\StartUp.cs",
+              "RelativeDocumentMoniker": "PlayersAndMonsters\\StartUp.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\PlayersAndMonsters\\StartUp.cs",
+              "RelativeToolTip": "PlayersAndMonsters\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T16:52:33.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Bear.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\Zoo\\Bear.cs",
+              "RelativeDocumentMoniker": "Zoo\\Bear.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\Zoo\\Bear.cs",
+              "RelativeToolTip": "Zoo\\Bear.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T16:50:53.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Gorilla.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\Zoo\\Gorilla.cs",
+              "RelativeDocumentMoniker": "Zoo\\Gorilla.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\Zoo\\Gorilla.cs",
+              "RelativeToolTip": "Zoo\\Gorilla.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T16:50:23.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Mammal.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\Zoo\\Mammal.cs",
+              "RelativeDocumentMoniker": "Zoo\\Mammal.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\Zoo\\Mammal.cs",
+              "RelativeToolTip": "Zoo\\Mammal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T16:49:49.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Snake.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\Zoo\\Snake.cs",
+              "RelativeDocumentMoniker": "Zoo\\Snake.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\Zoo\\Snake.cs",
+              "RelativeToolTip": "Zoo\\Snake.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T16:49:06.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Lizard.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\Zoo\\Lizard.cs",
+              "RelativeDocumentMoniker": "Zoo\\Lizard.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\Zoo\\Lizard.cs",
+              "RelativeToolTip": "Zoo\\Lizard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T16:48:34.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Reptile.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\Zoo\\Reptile.cs",
+              "RelativeDocumentMoniker": "Zoo\\Reptile.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\Zoo\\Reptile.cs",
+              "RelativeToolTip": "Zoo\\Reptile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T16:48:03.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\Zoo\\Animal.cs",
+              "RelativeDocumentMoniker": "Zoo\\Animal.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\Zoo\\Animal.cs",
+              "RelativeToolTip": "Zoo\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T16:46:59.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\Zoo\\StartUp.cs",
+              "RelativeDocumentMoniker": "Zoo\\StartUp.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\Zoo\\StartUp.cs",
+              "RelativeToolTip": "Zoo\\StartUp.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T16:46:29.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Child.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\Person\\Child.cs",
+              "RelativeDocumentMoniker": "Person\\Child.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\Person\\Child.cs",
+              "RelativeToolTip": "Person\\Child.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T16:42:10.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\Person\\Person.cs",
+              "RelativeDocumentMoniker": "Person\\Person.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\Person\\Person.cs",
+              "RelativeToolTip": "Person\\Person.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T16:37:59.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\Person\\StartUp.cs",
+              "RelativeDocumentMoniker": "Person\\StartUp.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\4. InheritanceExercise\\Person\\StartUp.cs",
+              "RelativeToolTip": "Person\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T16:36:31.272Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
