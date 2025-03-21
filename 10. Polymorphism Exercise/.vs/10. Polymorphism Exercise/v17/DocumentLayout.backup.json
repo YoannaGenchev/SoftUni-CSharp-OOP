@@ -1,0 +1,649 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B219F12-5FB7-4810-AF45-6E729C32C271}|04.WildFarm\\04.WildFarm.csproj|c:\\softuni\\c# oop\\10. polymorphism exercise\\04.wildfarm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B219F12-5FB7-4810-AF45-6E729C32C271}|04.WildFarm\\04.WildFarm.csproj|solutionrelative:04.wildfarm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B219F12-5FB7-4810-AF45-6E729C32C271}|04.WildFarm\\04.WildFarm.csproj|c:\\softuni\\c# oop\\10. polymorphism exercise\\04.wildfarm\\animals\\mammals\\felines\\feline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B219F12-5FB7-4810-AF45-6E729C32C271}|04.WildFarm\\04.WildFarm.csproj|solutionrelative:04.wildfarm\\animals\\mammals\\felines\\feline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B219F12-5FB7-4810-AF45-6E729C32C271}|04.WildFarm\\04.WildFarm.csproj|c:\\softuni\\c# oop\\10. polymorphism exercise\\04.wildfarm\\animals\\mammals\\felines\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B219F12-5FB7-4810-AF45-6E729C32C271}|04.WildFarm\\04.WildFarm.csproj|solutionrelative:04.wildfarm\\animals\\mammals\\felines\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B219F12-5FB7-4810-AF45-6E729C32C271}|04.WildFarm\\04.WildFarm.csproj|c:\\softuni\\c# oop\\10. polymorphism exercise\\04.wildfarm\\animals\\mammals\\mammal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B219F12-5FB7-4810-AF45-6E729C32C271}|04.WildFarm\\04.WildFarm.csproj|solutionrelative:04.wildfarm\\animals\\mammals\\mammal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B219F12-5FB7-4810-AF45-6E729C32C271}|04.WildFarm\\04.WildFarm.csproj|c:\\softuni\\c# oop\\10. polymorphism exercise\\04.wildfarm\\animals\\birds\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B219F12-5FB7-4810-AF45-6E729C32C271}|04.WildFarm\\04.WildFarm.csproj|solutionrelative:04.wildfarm\\animals\\birds\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B219F12-5FB7-4810-AF45-6E729C32C271}|04.WildFarm\\04.WildFarm.csproj|c:\\softuni\\c# oop\\10. polymorphism exercise\\04.wildfarm\\animals\\mammals\\mouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B219F12-5FB7-4810-AF45-6E729C32C271}|04.WildFarm\\04.WildFarm.csproj|solutionrelative:04.wildfarm\\animals\\mammals\\mouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B219F12-5FB7-4810-AF45-6E729C32C271}|04.WildFarm\\04.WildFarm.csproj|c:\\softuni\\c# oop\\10. polymorphism exercise\\04.wildfarm\\animals\\mammals\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B219F12-5FB7-4810-AF45-6E729C32C271}|04.WildFarm\\04.WildFarm.csproj|solutionrelative:04.wildfarm\\animals\\mammals\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B219F12-5FB7-4810-AF45-6E729C32C271}|04.WildFarm\\04.WildFarm.csproj|c:\\softuni\\c# oop\\10. polymorphism exercise\\04.wildfarm\\animals\\birds\\owl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B219F12-5FB7-4810-AF45-6E729C32C271}|04.WildFarm\\04.WildFarm.csproj|solutionrelative:04.wildfarm\\animals\\birds\\owl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B219F12-5FB7-4810-AF45-6E729C32C271}|04.WildFarm\\04.WildFarm.csproj|c:\\softuni\\c# oop\\10. polymorphism exercise\\04.wildfarm\\animals\\mammals\\felines\\tiger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B219F12-5FB7-4810-AF45-6E729C32C271}|04.WildFarm\\04.WildFarm.csproj|solutionrelative:04.wildfarm\\animals\\mammals\\felines\\tiger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B219F12-5FB7-4810-AF45-6E729C32C271}|04.WildFarm\\04.WildFarm.csproj|c:\\softuni\\c# oop\\10. polymorphism exercise\\04.wildfarm\\animals\\birds\\hen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B219F12-5FB7-4810-AF45-6E729C32C271}|04.WildFarm\\04.WildFarm.csproj|solutionrelative:04.wildfarm\\animals\\birds\\hen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B219F12-5FB7-4810-AF45-6E729C32C271}|04.WildFarm\\04.WildFarm.csproj|c:\\softuni\\c# oop\\10. polymorphism exercise\\04.wildfarm\\animals\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B219F12-5FB7-4810-AF45-6E729C32C271}|04.WildFarm\\04.WildFarm.csproj|solutionrelative:04.wildfarm\\animals\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B219F12-5FB7-4810-AF45-6E729C32C271}|04.WildFarm\\04.WildFarm.csproj|c:\\softuni\\c# oop\\10. polymorphism exercise\\04.wildfarm\\interfaces\\ianimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B219F12-5FB7-4810-AF45-6E729C32C271}|04.WildFarm\\04.WildFarm.csproj|solutionrelative:04.wildfarm\\interfaces\\ianimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B219F12-5FB7-4810-AF45-6E729C32C271}|04.WildFarm\\04.WildFarm.csproj|c:\\softuni\\c# oop\\10. polymorphism exercise\\04.wildfarm\\foods\\fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B219F12-5FB7-4810-AF45-6E729C32C271}|04.WildFarm\\04.WildFarm.csproj|solutionrelative:04.wildfarm\\foods\\fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B219F12-5FB7-4810-AF45-6E729C32C271}|04.WildFarm\\04.WildFarm.csproj|c:\\softuni\\c# oop\\10. polymorphism exercise\\04.wildfarm\\interfaces\\ifood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B219F12-5FB7-4810-AF45-6E729C32C271}|04.WildFarm\\04.WildFarm.csproj|solutionrelative:04.wildfarm\\interfaces\\ifood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B219F12-5FB7-4810-AF45-6E729C32C271}|04.WildFarm\\04.WildFarm.csproj|c:\\softuni\\c# oop\\10. polymorphism exercise\\04.wildfarm\\foods\\vegetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B219F12-5FB7-4810-AF45-6E729C32C271}|04.WildFarm\\04.WildFarm.csproj|solutionrelative:04.wildfarm\\foods\\vegetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B219F12-5FB7-4810-AF45-6E729C32C271}|04.WildFarm\\04.WildFarm.csproj|c:\\softuni\\c# oop\\10. polymorphism exercise\\04.wildfarm\\foods\\meat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B219F12-5FB7-4810-AF45-6E729C32C271}|04.WildFarm\\04.WildFarm.csproj|solutionrelative:04.wildfarm\\foods\\meat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B219F12-5FB7-4810-AF45-6E729C32C271}|04.WildFarm\\04.WildFarm.csproj|c:\\softuni\\c# oop\\10. polymorphism exercise\\04.wildfarm\\foods\\seeds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B219F12-5FB7-4810-AF45-6E729C32C271}|04.WildFarm\\04.WildFarm.csproj|solutionrelative:04.wildfarm\\foods\\seeds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B219F12-5FB7-4810-AF45-6E729C32C271}|04.WildFarm\\04.WildFarm.csproj|c:\\softuni\\c# oop\\10. polymorphism exercise\\04.wildfarm\\foods\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B219F12-5FB7-4810-AF45-6E729C32C271}|04.WildFarm\\04.WildFarm.csproj|solutionrelative:04.wildfarm\\foods\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B219F12-5FB7-4810-AF45-6E729C32C271}|04.WildFarm\\04.WildFarm.csproj|c:\\softuni\\c# oop\\10. polymorphism exercise\\04.wildfarm\\04.wildfarm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2B219F12-5FB7-4810-AF45-6E729C32C271}|04.WildFarm\\04.WildFarm.csproj|solutionrelative:04.wildfarm\\04.wildfarm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6B2D69-F80B-4496-A132-1ED3BADE8A16}|03.Raiding\\03.Raiding.csproj|c:\\softuni\\c# oop\\10. polymorphism exercise\\03.raiding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F6B2D69-F80B-4496-A132-1ED3BADE8A16}|03.Raiding\\03.Raiding.csproj|solutionrelative:03.raiding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6B2D69-F80B-4496-A132-1ED3BADE8A16}|03.Raiding\\03.Raiding.csproj|c:\\softuni\\c# oop\\10. polymorphism exercise\\03.raiding\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F6B2D69-F80B-4496-A132-1ED3BADE8A16}|03.Raiding\\03.Raiding.csproj|solutionrelative:03.raiding\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6B2D69-F80B-4496-A132-1ED3BADE8A16}|03.Raiding\\03.Raiding.csproj|c:\\softuni\\c# oop\\10. polymorphism exercise\\03.raiding\\rogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F6B2D69-F80B-4496-A132-1ED3BADE8A16}|03.Raiding\\03.Raiding.csproj|solutionrelative:03.raiding\\rogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6B2D69-F80B-4496-A132-1ED3BADE8A16}|03.Raiding\\03.Raiding.csproj|c:\\softuni\\c# oop\\10. polymorphism exercise\\03.raiding\\paladin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F6B2D69-F80B-4496-A132-1ED3BADE8A16}|03.Raiding\\03.Raiding.csproj|solutionrelative:03.raiding\\paladin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6B2D69-F80B-4496-A132-1ED3BADE8A16}|03.Raiding\\03.Raiding.csproj|c:\\softuni\\c# oop\\10. polymorphism exercise\\03.raiding\\druid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F6B2D69-F80B-4496-A132-1ED3BADE8A16}|03.Raiding\\03.Raiding.csproj|solutionrelative:03.raiding\\druid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6B2D69-F80B-4496-A132-1ED3BADE8A16}|03.Raiding\\03.Raiding.csproj|c:\\softuni\\c# oop\\10. polymorphism exercise\\03.raiding\\basehero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F6B2D69-F80B-4496-A132-1ED3BADE8A16}|03.Raiding\\03.Raiding.csproj|solutionrelative:03.raiding\\basehero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6B2D69-F80B-4496-A132-1ED3BADE8A16}|03.Raiding\\03.Raiding.csproj|c:\\softuni\\c# oop\\10. polymorphism exercise\\03.raiding\\03.raiding.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2F6B2D69-F80B-4496-A132-1ED3BADE8A16}|03.Raiding\\03.Raiding.csproj|solutionrelative:03.raiding\\03.raiding.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38BD31FA-1F7B-4C32-B52E-E31BC8272EBA}|02.VehiclesExtension\\02.VehiclesExtension.csproj|c:\\softuni\\c# oop\\10. polymorphism exercise\\02.vehiclesextension\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38BD31FA-1F7B-4C32-B52E-E31BC8272EBA}|02.VehiclesExtension\\02.VehiclesExtension.csproj|solutionrelative:02.vehiclesextension\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38BD31FA-1F7B-4C32-B52E-E31BC8272EBA}|02.VehiclesExtension\\02.VehiclesExtension.csproj|c:\\softuni\\c# oop\\10. polymorphism exercise\\02.vehiclesextension\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38BD31FA-1F7B-4C32-B52E-E31BC8272EBA}|02.VehiclesExtension\\02.VehiclesExtension.csproj|solutionrelative:02.vehiclesextension\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38BD31FA-1F7B-4C32-B52E-E31BC8272EBA}|02.VehiclesExtension\\02.VehiclesExtension.csproj|c:\\softuni\\c# oop\\10. polymorphism exercise\\02.vehiclesextension\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38BD31FA-1F7B-4C32-B52E-E31BC8272EBA}|02.VehiclesExtension\\02.VehiclesExtension.csproj|solutionrelative:02.vehiclesextension\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38BD31FA-1F7B-4C32-B52E-E31BC8272EBA}|02.VehiclesExtension\\02.VehiclesExtension.csproj|c:\\softuni\\c# oop\\10. polymorphism exercise\\02.vehiclesextension\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38BD31FA-1F7B-4C32-B52E-E31BC8272EBA}|02.VehiclesExtension\\02.VehiclesExtension.csproj|solutionrelative:02.vehiclesextension\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38BD31FA-1F7B-4C32-B52E-E31BC8272EBA}|02.VehiclesExtension\\02.VehiclesExtension.csproj|c:\\softuni\\c# oop\\10. polymorphism exercise\\02.vehiclesextension\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38BD31FA-1F7B-4C32-B52E-E31BC8272EBA}|02.VehiclesExtension\\02.VehiclesExtension.csproj|solutionrelative:02.vehiclesextension\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38BD31FA-1F7B-4C32-B52E-E31BC8272EBA}|02.VehiclesExtension\\02.VehiclesExtension.csproj|c:\\softuni\\c# oop\\10. polymorphism exercise\\02.vehiclesextension\\02.vehiclesextension.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{38BD31FA-1F7B-4C32-B52E-E31BC8272EBA}|02.VehiclesExtension\\02.VehiclesExtension.csproj|solutionrelative:02.vehiclesextension\\02.vehiclesextension.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13913772-F5B2-4881-8136-55B48163426E}|01.Vehicles\\01.Vehicles.csproj|c:\\softuni\\c# oop\\10. polymorphism exercise\\01.vehicles\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13913772-F5B2-4881-8136-55B48163426E}|01.Vehicles\\01.Vehicles.csproj|solutionrelative:01.vehicles\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13913772-F5B2-4881-8136-55B48163426E}|01.Vehicles\\01.Vehicles.csproj|c:\\softuni\\c# oop\\10. polymorphism exercise\\01.vehicles\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13913772-F5B2-4881-8136-55B48163426E}|01.Vehicles\\01.Vehicles.csproj|solutionrelative:01.vehicles\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13913772-F5B2-4881-8136-55B48163426E}|01.Vehicles\\01.Vehicles.csproj|c:\\softuni\\c# oop\\10. polymorphism exercise\\01.vehicles\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13913772-F5B2-4881-8136-55B48163426E}|01.Vehicles\\01.Vehicles.csproj|solutionrelative:01.vehicles\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13913772-F5B2-4881-8136-55B48163426E}|01.Vehicles\\01.Vehicles.csproj|c:\\softuni\\c# oop\\10. polymorphism exercise\\01.vehicles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13913772-F5B2-4881-8136-55B48163426E}|01.Vehicles\\01.Vehicles.csproj|solutionrelative:01.vehicles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13913772-F5B2-4881-8136-55B48163426E}|01.Vehicles\\01.Vehicles.csproj|c:\\softuni\\c# oop\\10. polymorphism exercise\\01.vehicles\\01.vehicles.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{13913772-F5B2-4881-8136-55B48163426E}|01.Vehicles\\01.Vehicles.csproj|solutionrelative:01.vehicles\\01.vehicles.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Mouse.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\04.WildFarm\\Animals\\Mammals\\Mouse.cs",
+              "RelativeDocumentMoniker": "04.WildFarm\\Animals\\Mammals\\Mouse.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\04.WildFarm\\Animals\\Mammals\\Mouse.cs",
+              "RelativeToolTip": "04.WildFarm\\Animals\\Mammals\\Mouse.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T21:02:16.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bird.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\04.WildFarm\\Animals\\Birds\\Bird.cs",
+              "RelativeDocumentMoniker": "04.WildFarm\\Animals\\Birds\\Bird.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\04.WildFarm\\Animals\\Birds\\Bird.cs",
+              "RelativeToolTip": "04.WildFarm\\Animals\\Birds\\Bird.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T20:57:45.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Feline.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\04.WildFarm\\Animals\\Mammals\\Felines\\Feline.cs",
+              "RelativeDocumentMoniker": "04.WildFarm\\Animals\\Mammals\\Felines\\Feline.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\04.WildFarm\\Animals\\Mammals\\Felines\\Feline.cs",
+              "RelativeToolTip": "04.WildFarm\\Animals\\Mammals\\Felines\\Feline.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T21:03:11.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mammal.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\04.WildFarm\\Animals\\Mammals\\Mammal.cs",
+              "RelativeDocumentMoniker": "04.WildFarm\\Animals\\Mammals\\Mammal.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\04.WildFarm\\Animals\\Mammals\\Mammal.cs",
+              "RelativeToolTip": "04.WildFarm\\Animals\\Mammals\\Mammal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T21:01:17.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\04.WildFarm\\Program.cs",
+              "RelativeDocumentMoniker": "04.WildFarm\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\04.WildFarm\\Program.cs",
+              "RelativeToolTip": "04.WildFarm\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAYwDwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T17:04:53.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\04.WildFarm\\Animals\\Mammals\\Dog.cs",
+              "RelativeDocumentMoniker": "04.WildFarm\\Animals\\Mammals\\Dog.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\04.WildFarm\\Animals\\Mammals\\Dog.cs",
+              "RelativeToolTip": "04.WildFarm\\Animals\\Mammals\\Dog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T21:02:37.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Owl.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\04.WildFarm\\Animals\\Birds\\Owl.cs",
+              "RelativeDocumentMoniker": "04.WildFarm\\Animals\\Birds\\Owl.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\04.WildFarm\\Animals\\Birds\\Owl.cs",
+              "RelativeToolTip": "04.WildFarm\\Animals\\Birds\\Owl.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T21:00:20.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Tiger.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\04.WildFarm\\Animals\\Mammals\\Felines\\Tiger.cs",
+              "RelativeDocumentMoniker": "04.WildFarm\\Animals\\Mammals\\Felines\\Tiger.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\04.WildFarm\\Animals\\Mammals\\Felines\\Tiger.cs",
+              "RelativeToolTip": "04.WildFarm\\Animals\\Mammals\\Felines\\Tiger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T21:04:10.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\04.WildFarm\\Animals\\Mammals\\Felines\\Cat.cs",
+              "RelativeDocumentMoniker": "04.WildFarm\\Animals\\Mammals\\Felines\\Cat.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\04.WildFarm\\Animals\\Mammals\\Felines\\Cat.cs",
+              "RelativeToolTip": "04.WildFarm\\Animals\\Mammals\\Felines\\Cat.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T21:03:53.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Hen.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\04.WildFarm\\Animals\\Birds\\Hen.cs",
+              "RelativeDocumentMoniker": "04.WildFarm\\Animals\\Birds\\Hen.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\04.WildFarm\\Animals\\Birds\\Hen.cs",
+              "RelativeToolTip": "04.WildFarm\\Animals\\Birds\\Hen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T20:59:31.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\04.WildFarm\\Animals\\Animal.cs",
+              "RelativeDocumentMoniker": "04.WildFarm\\Animals\\Animal.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\04.WildFarm\\Animals\\Animal.cs",
+              "RelativeToolTip": "04.WildFarm\\Animals\\Animal.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwB4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T20:55:03.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAnimal.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\04.WildFarm\\Interfaces\\IAnimal.cs",
+              "RelativeDocumentMoniker": "04.WildFarm\\Interfaces\\IAnimal.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\04.WildFarm\\Interfaces\\IAnimal.cs",
+              "RelativeToolTip": "04.WildFarm\\Interfaces\\IAnimal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T20:46:39.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Fruit.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\04.WildFarm\\Foods\\Fruit.cs",
+              "RelativeDocumentMoniker": "04.WildFarm\\Foods\\Fruit.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\04.WildFarm\\Foods\\Fruit.cs",
+              "RelativeToolTip": "04.WildFarm\\Foods\\Fruit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T20:50:22.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IFood.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\04.WildFarm\\Interfaces\\IFood.cs",
+              "RelativeDocumentMoniker": "04.WildFarm\\Interfaces\\IFood.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\04.WildFarm\\Interfaces\\IFood.cs",
+              "RelativeToolTip": "04.WildFarm\\Interfaces\\IFood.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T20:47:39.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Vegetable.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\04.WildFarm\\Foods\\Vegetable.cs",
+              "RelativeDocumentMoniker": "04.WildFarm\\Foods\\Vegetable.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\04.WildFarm\\Foods\\Vegetable.cs",
+              "RelativeToolTip": "04.WildFarm\\Foods\\Vegetable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T20:53:34.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Meat.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\04.WildFarm\\Foods\\Meat.cs",
+              "RelativeDocumentMoniker": "04.WildFarm\\Foods\\Meat.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\04.WildFarm\\Foods\\Meat.cs",
+              "RelativeToolTip": "04.WildFarm\\Foods\\Meat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T20:52:48.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Seeds.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\04.WildFarm\\Foods\\Seeds.cs",
+              "RelativeDocumentMoniker": "04.WildFarm\\Foods\\Seeds.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\04.WildFarm\\Foods\\Seeds.cs",
+              "RelativeToolTip": "04.WildFarm\\Foods\\Seeds.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T20:53:14.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\04.WildFarm\\Foods\\Food.cs",
+              "RelativeDocumentMoniker": "04.WildFarm\\Foods\\Food.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\04.WildFarm\\Foods\\Food.cs",
+              "RelativeToolTip": "04.WildFarm\\Foods\\Food.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T20:42:48.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "04.WildFarm",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\04.WildFarm\\04.WildFarm.csproj",
+              "RelativeDocumentMoniker": "04.WildFarm\\04.WildFarm.csproj",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\04.WildFarm\\04.WildFarm.csproj",
+              "RelativeToolTip": "04.WildFarm\\04.WildFarm.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-06T20:42:19.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Paladin.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\03.Raiding\\Paladin.cs",
+              "RelativeDocumentMoniker": "03.Raiding\\Paladin.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\03.Raiding\\Paladin.cs",
+              "RelativeToolTip": "03.Raiding\\Paladin.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T17:10:03.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Druid.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\03.Raiding\\Druid.cs",
+              "RelativeDocumentMoniker": "03.Raiding\\Druid.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\03.Raiding\\Druid.cs",
+              "RelativeToolTip": "03.Raiding\\Druid.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T17:05:48.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\03.Raiding\\Program.cs",
+              "RelativeDocumentMoniker": "03.Raiding\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\03.Raiding\\Program.cs",
+              "RelativeToolTip": "03.Raiding\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwBEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T17:04:39.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Rogue.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\03.Raiding\\Rogue.cs",
+              "RelativeDocumentMoniker": "03.Raiding\\Rogue.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\03.Raiding\\Rogue.cs",
+              "RelativeToolTip": "03.Raiding\\Rogue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T17:10:37.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Warrior.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\03.Raiding\\Warrior.cs",
+              "RelativeDocumentMoniker": "03.Raiding\\Warrior.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\03.Raiding\\Warrior.cs",
+              "RelativeToolTip": "03.Raiding\\Warrior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T17:11:16.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BaseHero.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\03.Raiding\\BaseHero.cs",
+              "RelativeDocumentMoniker": "03.Raiding\\BaseHero.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\03.Raiding\\BaseHero.cs",
+              "RelativeToolTip": "03.Raiding\\BaseHero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T17:04:01.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "03.Raiding",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\03.Raiding\\03.Raiding.csproj",
+              "RelativeDocumentMoniker": "03.Raiding\\03.Raiding.csproj",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\03.Raiding\\03.Raiding.csproj",
+              "RelativeToolTip": "03.Raiding\\03.Raiding.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-06T17:03:49.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\02.VehiclesExtension\\Vehicle.cs",
+              "RelativeDocumentMoniker": "02.VehiclesExtension\\Vehicle.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\02.VehiclesExtension\\Vehicle.cs",
+              "RelativeToolTip": "02.VehiclesExtension\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T16:52:09.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\02.VehiclesExtension\\Car.cs",
+              "RelativeDocumentMoniker": "02.VehiclesExtension\\Car.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\02.VehiclesExtension\\Car.cs",
+              "RelativeToolTip": "02.VehiclesExtension\\Car.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwB4AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T16:51:59.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\02.VehiclesExtension\\Program.cs",
+              "RelativeDocumentMoniker": "02.VehiclesExtension\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\02.VehiclesExtension\\Program.cs",
+              "RelativeToolTip": "02.VehiclesExtension\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T17:04:20.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Bus.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\02.VehiclesExtension\\Bus.cs",
+              "RelativeDocumentMoniker": "02.VehiclesExtension\\Bus.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\02.VehiclesExtension\\Bus.cs",
+              "RelativeToolTip": "02.VehiclesExtension\\Bus.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAswDEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T16:52:50.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Truck.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\02.VehiclesExtension\\Truck.cs",
+              "RelativeDocumentMoniker": "02.VehiclesExtension\\Truck.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\02.VehiclesExtension\\Truck.cs",
+              "RelativeToolTip": "02.VehiclesExtension\\Truck.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB4AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T16:56:23.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "02.VehiclesExtension",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\02.VehiclesExtension\\02.VehiclesExtension.csproj",
+              "RelativeDocumentMoniker": "02.VehiclesExtension\\02.VehiclesExtension.csproj",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\02.VehiclesExtension\\02.VehiclesExtension.csproj",
+              "RelativeToolTip": "02.VehiclesExtension\\02.VehiclesExtension.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-06T16:53:14.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\01.Vehicles\\Car.cs",
+              "RelativeDocumentMoniker": "01.Vehicles\\Car.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\01.Vehicles\\Car.cs",
+              "RelativeToolTip": "01.Vehicles\\Car.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAA7wDsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T17:21:27.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Truck.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\01.Vehicles\\Truck.cs",
+              "RelativeDocumentMoniker": "01.Vehicles\\Truck.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\01.Vehicles\\Truck.cs",
+              "RelativeToolTip": "01.Vehicles\\Truck.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwDUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T17:10:26.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\01.Vehicles\\Vehicle.cs",
+              "RelativeDocumentMoniker": "01.Vehicles\\Vehicle.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\01.Vehicles\\Vehicle.cs",
+              "RelativeToolTip": "01.Vehicles\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T17:08:18.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "01.Vehicles",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\01.Vehicles\\01.Vehicles.csproj",
+              "RelativeDocumentMoniker": "01.Vehicles\\01.Vehicles.csproj",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\01.Vehicles\\01.Vehicles.csproj",
+              "RelativeToolTip": "01.Vehicles\\01.Vehicles.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-05T17:05:59.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\01.Vehicles\\Program.cs",
+              "RelativeDocumentMoniker": "01.Vehicles\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\10. Polymorphism Exercise\\01.Vehicles\\Program.cs",
+              "RelativeToolTip": "01.Vehicles\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwCAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T17:03:59.712Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
