@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SoftUni\\C# OOP\\15. Reflection and Attributes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A67D47CB-EBD5-47E7-ADB2-EF0E79BF7488}|06.CodeTracker\\06.CodeTracker.csproj|c:\\softuni\\c# oop\\15. reflection and attributes\\06.codetracker\\tracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A67D47CB-EBD5-47E7-ADB2-EF0E79BF7488}|06.CodeTracker\\06.CodeTracker.csproj|solutionrelative:06.codetracker\\tracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A67D47CB-EBD5-47E7-ADB2-EF0E79BF7488}|06.CodeTracker\\06.CodeTracker.csproj|c:\\softuni\\c# oop\\15. reflection and attributes\\06.codetracker\\authorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A67D47CB-EBD5-47E7-ADB2-EF0E79BF7488}|06.CodeTracker\\06.CodeTracker.csproj|solutionrelative:06.codetracker\\authorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A67D47CB-EBD5-47E7-ADB2-EF0E79BF7488}|06.CodeTracker\\06.CodeTracker.csproj|c:\\softuni\\c# oop\\15. reflection and attributes\\06.codetracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A67D47CB-EBD5-47E7-ADB2-EF0E79BF7488}|06.CodeTracker\\06.CodeTracker.csproj|solutionrelative:06.codetracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A67D47CB-EBD5-47E7-ADB2-EF0E79BF7488}|06.CodeTracker\\06.CodeTracker.csproj|c:\\softuni\\c# oop\\15. reflection and attributes\\06.codetracker\\06.codetracker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A67D47CB-EBD5-47E7-ADB2-EF0E79BF7488}|06.CodeTracker\\06.CodeTracker.csproj|solutionrelative:06.codetracker\\06.codetracker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F79766F-4464-4BCE-BC02-59CDA4810592}|05.CreateAttribute\\05.CreateAttribute.csproj|c:\\softuni\\c# oop\\15. reflection and attributes\\05.createattribute\\authorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F79766F-4464-4BCE-BC02-59CDA4810592}|05.CreateAttribute\\05.CreateAttribute.csproj|solutionrelative:05.createattribute\\authorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F79766F-4464-4BCE-BC02-59CDA4810592}|05.CreateAttribute\\05.CreateAttribute.csproj|c:\\softuni\\c# oop\\15. reflection and attributes\\05.createattribute\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F79766F-4464-4BCE-BC02-59CDA4810592}|05.CreateAttribute\\05.CreateAttribute.csproj|solutionrelative:05.createattribute\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F79766F-4464-4BCE-BC02-59CDA4810592}|05.CreateAttribute\\05.CreateAttribute.csproj|c:\\softuni\\c# oop\\15. reflection and attributes\\05.createattribute\\05.createattribute.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9F79766F-4464-4BCE-BC02-59CDA4810592}|05.CreateAttribute\\05.CreateAttribute.csproj|solutionrelative:05.createattribute\\05.createattribute.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE0B29E-8E7B-4168-94F8-DF1459191285}|04.Collector\\04.Collector.csproj|c:\\softuni\\c# oop\\15. reflection and attributes\\04.collector\\spy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE0B29E-8E7B-4168-94F8-DF1459191285}|04.Collector\\04.Collector.csproj|solutionrelative:04.collector\\spy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE0B29E-8E7B-4168-94F8-DF1459191285}|04.Collector\\04.Collector.csproj|c:\\softuni\\c# oop\\15. reflection and attributes\\04.collector\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE0B29E-8E7B-4168-94F8-DF1459191285}|04.Collector\\04.Collector.csproj|solutionrelative:04.collector\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092E904F-A7C1-4A25-99A6-118C1EA4762A}|03.MissionPrivateImpossible\\03.MissionPrivateImpossible.csproj|c:\\softuni\\c# oop\\15. reflection and attributes\\03.missionprivateimpossible\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{092E904F-A7C1-4A25-99A6-118C1EA4762A}|03.MissionPrivateImpossible\\03.MissionPrivateImpossible.csproj|solutionrelative:03.missionprivateimpossible\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092E904F-A7C1-4A25-99A6-118C1EA4762A}|03.MissionPrivateImpossible\\03.MissionPrivateImpossible.csproj|c:\\softuni\\c# oop\\15. reflection and attributes\\03.missionprivateimpossible\\spy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{092E904F-A7C1-4A25-99A6-118C1EA4762A}|03.MissionPrivateImpossible\\03.MissionPrivateImpossible.csproj|solutionrelative:03.missionprivateimpossible\\spy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90740DC0-3976-4606-A008-D2D178075E66}|02.HighQualityMistakes\\02.HighQualityMistakes.csproj|c:\\softuni\\c# oop\\15. reflection and attributes\\02.highqualitymistakes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90740DC0-3976-4606-A008-D2D178075E66}|02.HighQualityMistakes\\02.HighQualityMistakes.csproj|solutionrelative:02.highqualitymistakes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90740DC0-3976-4606-A008-D2D178075E66}|02.HighQualityMistakes\\02.HighQualityMistakes.csproj|c:\\softuni\\c# oop\\15. reflection and attributes\\02.highqualitymistakes\\spy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90740DC0-3976-4606-A008-D2D178075E66}|02.HighQualityMistakes\\02.HighQualityMistakes.csproj|solutionrelative:02.highqualitymistakes\\spy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90740DC0-3976-4606-A008-D2D178075E66}|02.HighQualityMistakes\\02.HighQualityMistakes.csproj|c:\\softuni\\c# oop\\15. reflection and attributes\\02.highqualitymistakes\\02.highqualitymistakes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{90740DC0-3976-4606-A008-D2D178075E66}|02.HighQualityMistakes\\02.HighQualityMistakes.csproj|solutionrelative:02.highqualitymistakes\\02.highqualitymistakes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B555DB85-23AC-47F8-96E0-565646B0DD9E}|01.Stealer\\01.Stealer.csproj|c:\\softuni\\c# oop\\15. reflection and attributes\\01.stealer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B555DB85-23AC-47F8-96E0-565646B0DD9E}|01.Stealer\\01.Stealer.csproj|solutionrelative:01.stealer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B555DB85-23AC-47F8-96E0-565646B0DD9E}|01.Stealer\\01.Stealer.csproj|c:\\softuni\\c# oop\\15. reflection and attributes\\01.stealer\\spy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B555DB85-23AC-47F8-96E0-565646B0DD9E}|01.Stealer\\01.Stealer.csproj|solutionrelative:01.stealer\\spy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B555DB85-23AC-47F8-96E0-565646B0DD9E}|01.Stealer\\01.Stealer.csproj|c:\\softuni\\c# oop\\15. reflection and attributes\\01.stealer\\hacker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B555DB85-23AC-47F8-96E0-565646B0DD9E}|01.Stealer\\01.Stealer.csproj|solutionrelative:01.stealer\\hacker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B555DB85-23AC-47F8-96E0-565646B0DD9E}|01.Stealer\\01.Stealer.csproj|c:\\softuni\\c# oop\\15. reflection and attributes\\01.stealer\\01.stealer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B555DB85-23AC-47F8-96E0-565646B0DD9E}|01.Stealer\\01.Stealer.csproj|solutionrelative:01.stealer\\01.stealer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "06.CodeTracker",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\15. Reflection and Attributes\\06.CodeTracker\\06.CodeTracker.csproj",
+              "RelativeDocumentMoniker": "06.CodeTracker\\06.CodeTracker.csproj",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\15. Reflection and Attributes\\06.CodeTracker\\06.CodeTracker.csproj",
+              "RelativeToolTip": "06.CodeTracker\\06.CodeTracker.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-15T21:15:01.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthorAttribute.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\15. Reflection and Attributes\\06.CodeTracker\\AuthorAttribute.cs",
+              "RelativeDocumentMoniker": "06.CodeTracker\\AuthorAttribute.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\15. Reflection and Attributes\\06.CodeTracker\\AuthorAttribute.cs",
+              "RelativeToolTip": "06.CodeTracker\\AuthorAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T21:07:07.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthorAttribute.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\15. Reflection and Attributes\\05.CreateAttribute\\AuthorAttribute.cs",
+              "RelativeDocumentMoniker": "05.CreateAttribute\\AuthorAttribute.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\15. Reflection and Attributes\\05.CreateAttribute\\AuthorAttribute.cs",
+              "RelativeToolTip": "05.CreateAttribute\\AuthorAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T14:31:04.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\15. Reflection and Attributes\\06.CodeTracker\\Program.cs",
+              "RelativeDocumentMoniker": "06.CodeTracker\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\15. Reflection and Attributes\\06.CodeTracker\\Program.cs",
+              "RelativeToolTip": "06.CodeTracker\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T13:06:03.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tracker.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\15. Reflection and Attributes\\06.CodeTracker\\Tracker.cs",
+              "RelativeDocumentMoniker": "06.CodeTracker\\Tracker.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\15. Reflection and Attributes\\06.CodeTracker\\Tracker.cs",
+              "RelativeToolTip": "06.CodeTracker\\Tracker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T21:13:27.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\15. Reflection and Attributes\\05.CreateAttribute\\Program.cs",
+              "RelativeDocumentMoniker": "05.CreateAttribute\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\15. Reflection and Attributes\\05.CreateAttribute\\Program.cs",
+              "RelativeToolTip": "05.CreateAttribute\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T13:05:40.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "05.CreateAttribute",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\15. Reflection and Attributes\\05.CreateAttribute\\05.CreateAttribute.csproj",
+              "RelativeDocumentMoniker": "05.CreateAttribute\\05.CreateAttribute.csproj",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\15. Reflection and Attributes\\05.CreateAttribute\\05.CreateAttribute.csproj",
+              "RelativeToolTip": "05.CreateAttribute\\05.CreateAttribute.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-15T21:17:04.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\15. Reflection and Attributes\\02.HighQualityMistakes\\Program.cs",
+              "RelativeDocumentMoniker": "02.HighQualityMistakes\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\15. Reflection and Attributes\\02.HighQualityMistakes\\Program.cs",
+              "RelativeToolTip": "02.HighQualityMistakes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T13:03:26.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Hacker.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\15. Reflection and Attributes\\01.Stealer\\Hacker.cs",
+              "RelativeDocumentMoniker": "01.Stealer\\Hacker.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\15. Reflection and Attributes\\01.Stealer\\Hacker.cs",
+              "RelativeToolTip": "01.Stealer\\Hacker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T13:07:09.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\15. Reflection and Attributes\\03.MissionPrivateImpossible\\Program.cs",
+              "RelativeDocumentMoniker": "03.MissionPrivateImpossible\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\15. Reflection and Attributes\\03.MissionPrivateImpossible\\Program.cs",
+              "RelativeToolTip": "03.MissionPrivateImpossible\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T13:05:04.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "02.HighQualityMistakes",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\15. Reflection and Attributes\\02.HighQualityMistakes\\02.HighQualityMistakes.csproj",
+              "RelativeDocumentMoniker": "02.HighQualityMistakes\\02.HighQualityMistakes.csproj",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\15. Reflection and Attributes\\02.HighQualityMistakes\\02.HighQualityMistakes.csproj",
+              "RelativeToolTip": "02.HighQualityMistakes\\02.HighQualityMistakes.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-15T13:29:30.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Spy.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\15. Reflection and Attributes\\02.HighQualityMistakes\\Spy.cs",
+              "RelativeDocumentMoniker": "02.HighQualityMistakes\\Spy.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\15. Reflection and Attributes\\02.HighQualityMistakes\\Spy.cs",
+              "RelativeToolTip": "02.HighQualityMistakes\\Spy.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAqwCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T13:30:15.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Spy.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\15. Reflection and Attributes\\04.Collector\\Spy.cs",
+              "RelativeDocumentMoniker": "04.Collector\\Spy.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\15. Reflection and Attributes\\04.Collector\\Spy.cs",
+              "RelativeToolTip": "04.Collector\\Spy.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwDQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T14:23:17.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\15. Reflection and Attributes\\01.Stealer\\Program.cs",
+              "RelativeDocumentMoniker": "01.Stealer\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\15. Reflection and Attributes\\01.Stealer\\Program.cs",
+              "RelativeToolTip": "01.Stealer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T13:02:57.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Spy.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\15. Reflection and Attributes\\01.Stealer\\Spy.cs",
+              "RelativeDocumentMoniker": "01.Stealer\\Spy.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\15. Reflection and Attributes\\01.Stealer\\Spy.cs",
+              "RelativeToolTip": "01.Stealer\\Spy.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T13:15:02.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Spy.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\15. Reflection and Attributes\\03.MissionPrivateImpossible\\Spy.cs",
+              "RelativeDocumentMoniker": "03.MissionPrivateImpossible\\Spy.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\15. Reflection and Attributes\\03.MissionPrivateImpossible\\Spy.cs",
+              "RelativeToolTip": "03.MissionPrivateImpossible\\Spy.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T14:15:21.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\15. Reflection and Attributes\\04.Collector\\Program.cs",
+              "RelativeDocumentMoniker": "04.Collector\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\15. Reflection and Attributes\\04.Collector\\Program.cs",
+              "RelativeToolTip": "04.Collector\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T13:05:22.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "01.Stealer",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\15. Reflection and Attributes\\01.Stealer\\01.Stealer.csproj",
+              "RelativeDocumentMoniker": "01.Stealer\\01.Stealer.csproj",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\15. Reflection and Attributes\\01.Stealer\\01.Stealer.csproj",
+              "RelativeToolTip": "01.Stealer\\01.Stealer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-15T13:06:38.557Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
