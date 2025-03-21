@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SoftUni\\C# OOP\\11. Exceptions and Error Handling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36182236-C3F7-4F9E-95D1-047F08786EC3}|03. Cards\\03. Cards.csproj|c:\\softuni\\c# oop\\11. exceptions and error handling\\03. cards\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36182236-C3F7-4F9E-95D1-047F08786EC3}|03. Cards\\03. Cards.csproj|solutionrelative:03. cards\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{337C0878-2154-41C7-8D8F-3ED034EFF8CD}|04. Sum of Integers\\04. Sum of Integers.csproj|c:\\softuni\\c# oop\\11. exceptions and error handling\\04. sum of integers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{337C0878-2154-41C7-8D8F-3ED034EFF8CD}|04. Sum of Integers\\04. Sum of Integers.csproj|solutionrelative:04. sum of integers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A40C1D0-3B60-48F9-9889-FDC8C5C38C05}|02. Enter Numbers\\02. Enter Numbers.csproj|c:\\softuni\\c# oop\\11. exceptions and error handling\\02. enter numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A40C1D0-3B60-48F9-9889-FDC8C5C38C05}|02. Enter Numbers\\02. Enter Numbers.csproj|solutionrelative:02. enter numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5BDEBD-91EF-481D-B8D3-A07A9870F802}|01. Square Root\\01. Square Root.csproj|c:\\softuni\\c# oop\\11. exceptions and error handling\\01. square root\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B5BDEBD-91EF-481D-B8D3-A07A9870F802}|01. Square Root\\01. Square Root.csproj|solutionrelative:01. square root\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB35EC76-9174-4898-A654-2F8BB6E4873C}|06. Money Transactions\\06. Money Transactions.csproj|c:\\softuni\\c# oop\\11. exceptions and error handling\\06. money transactions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB35EC76-9174-4898-A654-2F8BB6E4873C}|06. Money Transactions\\06. Money Transactions.csproj|solutionrelative:06. money transactions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639C3B4B-EAA6-4DB2-8202-DB019EE88585}|05. Play Catch\\05. Play Catch.csproj|c:\\softuni\\c# oop\\11. exceptions and error handling\\05. play catch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639C3B4B-EAA6-4DB2-8202-DB019EE88585}|05. Play Catch\\05. Play Catch.csproj|solutionrelative:05. play catch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\11. Exceptions and Error Handling\\05. Play Catch\\Program.cs",
+              "RelativeDocumentMoniker": "05. Play Catch\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\11. Exceptions and Error Handling\\05. Play Catch\\Program.cs",
+              "RelativeToolTip": "05. Play Catch\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T16:38:35.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\11. Exceptions and Error Handling\\04. Sum of Integers\\Program.cs",
+              "RelativeDocumentMoniker": "04. Sum of Integers\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\11. Exceptions and Error Handling\\04. Sum of Integers\\Program.cs",
+              "RelativeToolTip": "04. Sum of Integers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T16:38:22.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\11. Exceptions and Error Handling\\02. Enter Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "02. Enter Numbers\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\11. Exceptions and Error Handling\\02. Enter Numbers\\Program.cs",
+              "RelativeToolTip": "02. Enter Numbers\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAwwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T16:37:18.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\11. Exceptions and Error Handling\\01. Square Root\\Program.cs",
+              "RelativeDocumentMoniker": "01. Square Root\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\11. Exceptions and Error Handling\\01. Square Root\\Program.cs",
+              "RelativeToolTip": "01. Square Root\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T16:35:33.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\11. Exceptions and Error Handling\\03. Cards\\Program.cs",
+              "RelativeDocumentMoniker": "03. Cards\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\11. Exceptions and Error Handling\\03. Cards\\Program.cs",
+              "RelativeToolTip": "03. Cards\\Program.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T16:38:06.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\11. Exceptions and Error Handling\\06. Money Transactions\\Program.cs",
+              "RelativeDocumentMoniker": "06. Money Transactions\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\11. Exceptions and Error Handling\\06. Money Transactions\\Program.cs",
+              "RelativeToolTip": "06. Money Transactions\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T16:38:51.155Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
