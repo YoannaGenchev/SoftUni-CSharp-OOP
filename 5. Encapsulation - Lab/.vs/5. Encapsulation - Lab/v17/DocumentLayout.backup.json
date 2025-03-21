@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SoftUni\\C# OOP\\5. Encapsulation - Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0B9B9B-1641-4FC9-BB2E-B491B3E247B9}|04.Team\\04.Team.csproj|c:\\softuni\\c# oop\\5. encapsulation - lab\\04.team\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0B9B9B-1641-4FC9-BB2E-B491B3E247B9}|04.Team\\04.Team.csproj|solutionrelative:04.team\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0B9B9B-1641-4FC9-BB2E-B491B3E247B9}|04.Team\\04.Team.csproj|c:\\softuni\\c# oop\\5. encapsulation - lab\\04.team\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0B9B9B-1641-4FC9-BB2E-B491B3E247B9}|04.Team\\04.Team.csproj|solutionrelative:04.team\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0B9B9B-1641-4FC9-BB2E-B491B3E247B9}|04.Team\\04.Team.csproj|c:\\softuni\\c# oop\\5. encapsulation - lab\\04.team\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0B9B9B-1641-4FC9-BB2E-B491B3E247B9}|04.Team\\04.Team.csproj|solutionrelative:04.team\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68EABBD4-A67C-4BB6-9D33-CA47B76209E3}|03. Validation\\03.Validation.csproj|c:\\softuni\\c# oop\\5. encapsulation - lab\\03. validation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68EABBD4-A67C-4BB6-9D33-CA47B76209E3}|03. Validation\\03.Validation.csproj|solutionrelative:03. validation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0B9B9B-1641-4FC9-BB2E-B491B3E247B9}|04.Team\\04.Team.csproj|c:\\softuni\\c# oop\\5. encapsulation - lab\\04.team\\04.team.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AD0B9B9B-1641-4FC9-BB2E-B491B3E247B9}|04.Team\\04.Team.csproj|solutionrelative:04.team\\04.team.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68EABBD4-A67C-4BB6-9D33-CA47B76209E3}|03. Validation\\03.Validation.csproj|c:\\softuni\\c# oop\\5. encapsulation - lab\\03. validation\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68EABBD4-A67C-4BB6-9D33-CA47B76209E3}|03. Validation\\03.Validation.csproj|solutionrelative:03. validation\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52DB3CDE-C32D-418A-8929-42065B31CA57}|02. Salary\\02.Salary.csproj|c:\\softuni\\c# oop\\5. encapsulation - lab\\02. salary\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52DB3CDE-C32D-418A-8929-42065B31CA57}|02. Salary\\02.Salary.csproj|solutionrelative:02. salary\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68EABBD4-A67C-4BB6-9D33-CA47B76209E3}|03. Validation\\03.Validation.csproj|c:\\softuni\\c# oop\\5. encapsulation - lab\\03. validation\\03.validation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{68EABBD4-A67C-4BB6-9D33-CA47B76209E3}|03. Validation\\03.Validation.csproj|solutionrelative:03. validation\\03.validation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52DB3CDE-C32D-418A-8929-42065B31CA57}|02. Salary\\02.Salary.csproj|c:\\softuni\\c# oop\\5. encapsulation - lab\\02. salary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52DB3CDE-C32D-418A-8929-42065B31CA57}|02. Salary\\02.Salary.csproj|solutionrelative:02. salary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52DB3CDE-C32D-418A-8929-42065B31CA57}|02. Salary\\02.Salary.csproj|c:\\softuni\\c# oop\\5. encapsulation - lab\\02. salary\\02.salary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{52DB3CDE-C32D-418A-8929-42065B31CA57}|02. Salary\\02.Salary.csproj|solutionrelative:02. salary\\02.salary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43074E03-223C-41C5-9D4D-992B5DF7F5CF}|01.Persons\\01.Persons.csproj|c:\\softuni\\c# oop\\5. encapsulation - lab\\01.persons\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43074E03-223C-41C5-9D4D-992B5DF7F5CF}|01.Persons\\01.Persons.csproj|solutionrelative:01.persons\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43074E03-223C-41C5-9D4D-992B5DF7F5CF}|01.Persons\\01.Persons.csproj|c:\\softuni\\c# oop\\5. encapsulation - lab\\01.persons\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43074E03-223C-41C5-9D4D-992B5DF7F5CF}|01.Persons\\01.Persons.csproj|solutionrelative:01.persons\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43074E03-223C-41C5-9D4D-992B5DF7F5CF}|01.Persons\\01.Persons.csproj|c:\\softuni\\c# oop\\5. encapsulation - lab\\01.persons\\01.persons.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{43074E03-223C-41C5-9D4D-992B5DF7F5CF}|01.Persons\\01.Persons.csproj|solutionrelative:01.persons\\01.persons.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\5. Encapsulation - Lab\\04.Team\\Team.cs",
+              "RelativeDocumentMoniker": "04.Team\\Team.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\5. Encapsulation - Lab\\04.Team\\Team.cs",
+              "RelativeToolTip": "04.Team\\Team.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwC8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T12:45:47.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\5. Encapsulation - Lab\\04.Team\\Person.cs",
+              "RelativeDocumentMoniker": "04.Team\\Person.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\5. Encapsulation - Lab\\04.Team\\Person.cs",
+              "RelativeToolTip": "04.Team\\Person.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwEAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T12:45:10.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "04.Team",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\5. Encapsulation - Lab\\04.Team\\04.Team.csproj",
+              "RelativeDocumentMoniker": "04.Team\\04.Team.csproj",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\5. Encapsulation - Lab\\04.Team\\04.Team.csproj",
+              "RelativeToolTip": "04.Team\\04.Team.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-01T12:44:58.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\5. Encapsulation - Lab\\03. Validation\\Program.cs",
+              "RelativeDocumentMoniker": "03. Validation\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\5. Encapsulation - Lab\\03. Validation\\Program.cs",
+              "RelativeToolTip": "03. Validation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T11:45:58.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\5. Encapsulation - Lab\\04.Team\\Program.cs",
+              "RelativeDocumentMoniker": "04.Team\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\5. Encapsulation - Lab\\04.Team\\Program.cs",
+              "RelativeToolTip": "04.Team\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T11:46:25.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\5. Encapsulation - Lab\\03. Validation\\Person.cs",
+              "RelativeDocumentMoniker": "03. Validation\\Person.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\5. Encapsulation - Lab\\03. Validation\\Person.cs",
+              "RelativeToolTip": "03. Validation\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T12:13:08.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\5. Encapsulation - Lab\\02. Salary\\Person.cs",
+              "RelativeDocumentMoniker": "02. Salary\\Person.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\5. Encapsulation - Lab\\02. Salary\\Person.cs",
+              "RelativeToolTip": "02. Salary\\Person.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwBoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T12:02:51.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "03.Validation",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\5. Encapsulation - Lab\\03. Validation\\03.Validation.csproj",
+              "RelativeDocumentMoniker": "03. Validation\\03.Validation.csproj",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\5. Encapsulation - Lab\\03. Validation\\03.Validation.csproj",
+              "RelativeToolTip": "03. Validation\\03.Validation.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-01T12:12:58.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "02.Salary",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\5. Encapsulation - Lab\\02. Salary\\02.Salary.csproj",
+              "RelativeDocumentMoniker": "02. Salary\\02.Salary.csproj",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\5. Encapsulation - Lab\\02. Salary\\02.Salary.csproj",
+              "RelativeToolTip": "02. Salary\\02.Salary.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-01T12:01:27.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "01.Persons",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\5. Encapsulation - Lab\\01.Persons\\01.Persons.csproj",
+              "RelativeDocumentMoniker": "01.Persons\\01.Persons.csproj",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\5. Encapsulation - Lab\\01.Persons\\01.Persons.csproj",
+              "RelativeToolTip": "01.Persons\\01.Persons.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-01T11:56:10.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\5. Encapsulation - Lab\\02. Salary\\Program.cs",
+              "RelativeDocumentMoniker": "02. Salary\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\5. Encapsulation - Lab\\02. Salary\\Program.cs",
+              "RelativeToolTip": "02. Salary\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T11:45:46.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\5. Encapsulation - Lab\\01.Persons\\Person.cs",
+              "RelativeDocumentMoniker": "01.Persons\\Person.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\5. Encapsulation - Lab\\01.Persons\\Person.cs",
+              "RelativeToolTip": "01.Persons\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T11:56:24.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\5. Encapsulation - Lab\\01.Persons\\Program.cs",
+              "RelativeDocumentMoniker": "01.Persons\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\5. Encapsulation - Lab\\01.Persons\\Program.cs",
+              "RelativeToolTip": "01.Persons\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T11:45:21.249Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
