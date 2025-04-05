@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SoftUni\\C# OOP\\Exam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBD2A46-6C2D-43B7-9A32-30F825FCB129}|AccessControlSystem\\AccessControlSystem.csproj|c:\\softuni\\c# oop\\exam\\accesscontrolsystem\\models\\securityzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCBD2A46-6C2D-43B7-9A32-30F825FCB129}|AccessControlSystem\\AccessControlSystem.csproj|solutionrelative:accesscontrolsystem\\models\\securityzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBD2A46-6C2D-43B7-9A32-30F825FCB129}|AccessControlSystem\\AccessControlSystem.csproj|c:\\softuni\\c# oop\\exam\\accesscontrolsystem\\utilities\\messages\\exceptionmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCBD2A46-6C2D-43B7-9A32-30F825FCB129}|AccessControlSystem\\AccessControlSystem.csproj|solutionrelative:accesscontrolsystem\\utilities\\messages\\exceptionmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBD2A46-6C2D-43B7-9A32-30F825FCB129}|AccessControlSystem\\AccessControlSystem.csproj|c:\\softuni\\c# oop\\exam\\accesscontrolsystem\\core\\controller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCBD2A46-6C2D-43B7-9A32-30F825FCB129}|AccessControlSystem\\AccessControlSystem.csproj|solutionrelative:accesscontrolsystem\\core\\controller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBD2A46-6C2D-43B7-9A32-30F825FCB129}|AccessControlSystem\\AccessControlSystem.csproj|c:\\softuni\\c# oop\\exam\\accesscontrolsystem\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCBD2A46-6C2D-43B7-9A32-30F825FCB129}|AccessControlSystem\\AccessControlSystem.csproj|solutionrelative:accesscontrolsystem\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBD2A46-6C2D-43B7-9A32-30F825FCB129}|AccessControlSystem\\AccessControlSystem.csproj|c:\\softuni\\c# oop\\exam\\accesscontrolsystem\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCBD2A46-6C2D-43B7-9A32-30F825FCB129}|AccessControlSystem\\AccessControlSystem.csproj|solutionrelative:accesscontrolsystem\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBD2A46-6C2D-43B7-9A32-30F825FCB129}|AccessControlSystem\\AccessControlSystem.csproj|c:\\softuni\\c# oop\\exam\\accesscontrolsystem\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCBD2A46-6C2D-43B7-9A32-30F825FCB129}|AccessControlSystem\\AccessControlSystem.csproj|solutionrelative:accesscontrolsystem\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBD2A46-6C2D-43B7-9A32-30F825FCB129}|AccessControlSystem\\AccessControlSystem.csproj|c:\\softuni\\c# oop\\exam\\accesscontrolsystem\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCBD2A46-6C2D-43B7-9A32-30F825FCB129}|AccessControlSystem\\AccessControlSystem.csproj|solutionrelative:accesscontrolsystem\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBD2A46-6C2D-43B7-9A32-30F825FCB129}|AccessControlSystem\\AccessControlSystem.csproj|c:\\softuni\\c# oop\\exam\\accesscontrolsystem\\utilities\\messages\\outputmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCBD2A46-6C2D-43B7-9A32-30F825FCB129}|AccessControlSystem\\AccessControlSystem.csproj|solutionrelative:accesscontrolsystem\\utilities\\messages\\outputmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBD2A46-6C2D-43B7-9A32-30F825FCB129}|AccessControlSystem\\AccessControlSystem.csproj|c:\\softuni\\c# oop\\exam\\accesscontrolsystem\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCBD2A46-6C2D-43B7-9A32-30F825FCB129}|AccessControlSystem\\AccessControlSystem.csproj|solutionrelative:accesscontrolsystem\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBD2A46-6C2D-43B7-9A32-30F825FCB129}|AccessControlSystem\\AccessControlSystem.csproj|c:\\softuni\\c# oop\\exam\\accesscontrolsystem\\models\\itdepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCBD2A46-6C2D-43B7-9A32-30F825FCB129}|AccessControlSystem\\AccessControlSystem.csproj|solutionrelative:accesscontrolsystem\\models\\itdepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBD2A46-6C2D-43B7-9A32-30F825FCB129}|AccessControlSystem\\AccessControlSystem.csproj|c:\\softuni\\c# oop\\exam\\accesscontrolsystem\\repositories\\contracts\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCBD2A46-6C2D-43B7-9A32-30F825FCB129}|AccessControlSystem\\AccessControlSystem.csproj|solutionrelative:accesscontrolsystem\\repositories\\contracts\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBD2A46-6C2D-43B7-9A32-30F825FCB129}|AccessControlSystem\\AccessControlSystem.csproj|c:\\softuni\\c# oop\\exam\\accesscontrolsystem\\repositories\\securityzonerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCBD2A46-6C2D-43B7-9A32-30F825FCB129}|AccessControlSystem\\AccessControlSystem.csproj|solutionrelative:accesscontrolsystem\\repositories\\securityzonerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBD2A46-6C2D-43B7-9A32-30F825FCB129}|AccessControlSystem\\AccessControlSystem.csproj|c:\\softuni\\c# oop\\exam\\accesscontrolsystem\\models\\itspecialist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCBD2A46-6C2D-43B7-9A32-30F825FCB129}|AccessControlSystem\\AccessControlSystem.csproj|solutionrelative:accesscontrolsystem\\models\\itspecialist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBD2A46-6C2D-43B7-9A32-30F825FCB129}|AccessControlSystem\\AccessControlSystem.csproj|c:\\softuni\\c# oop\\exam\\accesscontrolsystem\\models\\financedepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCBD2A46-6C2D-43B7-9A32-30F825FCB129}|AccessControlSystem\\AccessControlSystem.csproj|solutionrelative:accesscontrolsystem\\models\\financedepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBD2A46-6C2D-43B7-9A32-30F825FCB129}|AccessControlSystem\\AccessControlSystem.csproj|c:\\softuni\\c# oop\\exam\\accesscontrolsystem\\models\\hrdepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCBD2A46-6C2D-43B7-9A32-30F825FCB129}|AccessControlSystem\\AccessControlSystem.csproj|solutionrelative:accesscontrolsystem\\models\\hrdepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBD2A46-6C2D-43B7-9A32-30F825FCB129}|AccessControlSystem\\AccessControlSystem.csproj|c:\\softuni\\c# oop\\exam\\accesscontrolsystem\\models\\generalemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCBD2A46-6C2D-43B7-9A32-30F825FCB129}|AccessControlSystem\\AccessControlSystem.csproj|solutionrelative:accesscontrolsystem\\models\\generalemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExceptionMessages.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\Exam\\AccessControlSystem\\Utilities\\Messages\\ExceptionMessages.cs",
+              "RelativeDocumentMoniker": "AccessControlSystem\\Utilities\\Messages\\ExceptionMessages.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\Exam\\AccessControlSystem\\Utilities\\Messages\\ExceptionMessages.cs",
+              "RelativeToolTip": "AccessControlSystem\\Utilities\\Messages\\ExceptionMessages.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T07:54:25.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\Exam\\AccessControlSystem\\Core\\Engine.cs",
+              "RelativeDocumentMoniker": "AccessControlSystem\\Core\\Engine.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\Exam\\AccessControlSystem\\Core\\Engine.cs",
+              "RelativeToolTip": "AccessControlSystem\\Core\\Engine.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T07:23:57.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OutputMessages.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\Exam\\AccessControlSystem\\Utilities\\Messages\\OutputMessages.cs",
+              "RelativeDocumentMoniker": "AccessControlSystem\\Utilities\\Messages\\OutputMessages.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\Exam\\AccessControlSystem\\Utilities\\Messages\\OutputMessages.cs",
+              "RelativeToolTip": "AccessControlSystem\\Utilities\\Messages\\OutputMessages.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwC8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:53:34.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Controller .cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\Exam\\AccessControlSystem\\Core\\Controller .cs",
+              "RelativeDocumentMoniker": "AccessControlSystem\\Core\\Controller .cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\Exam\\AccessControlSystem\\Core\\Controller .cs",
+              "RelativeToolTip": "AccessControlSystem\\Core\\Controller .cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAiwIIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:49:23.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\Exam\\AccessControlSystem\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "AccessControlSystem\\Models\\Employee.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\Exam\\AccessControlSystem\\Models\\Employee.cs",
+              "RelativeToolTip": "AccessControlSystem\\Models\\Employee.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAkwD0AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:06:59.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\Exam\\AccessControlSystem\\StartUp.cs",
+              "RelativeDocumentMoniker": "AccessControlSystem\\StartUp.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\Exam\\AccessControlSystem\\StartUp.cs",
+              "RelativeToolTip": "AccessControlSystem\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T07:47:12.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SecurityZone.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\Exam\\AccessControlSystem\\Models\\SecurityZone.cs",
+              "RelativeDocumentMoniker": "AccessControlSystem\\Models\\SecurityZone.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\Exam\\AccessControlSystem\\Models\\SecurityZone.cs",
+              "RelativeToolTip": "AccessControlSystem\\Models\\SecurityZone.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAuwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:31:51.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\Exam\\AccessControlSystem\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "AccessControlSystem\\Models\\Department.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\Exam\\AccessControlSystem\\Models\\Department.cs",
+              "RelativeToolTip": "AccessControlSystem\\Models\\Department.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:16:23.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ITDepartment.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\Exam\\AccessControlSystem\\Models\\ITDepartment.cs",
+              "RelativeDocumentMoniker": "AccessControlSystem\\Models\\ITDepartment.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\Exam\\AccessControlSystem\\Models\\ITDepartment.cs",
+              "RelativeToolTip": "AccessControlSystem\\Models\\ITDepartment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:29:08.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\Exam\\AccessControlSystem\\Repositories\\Contracts\\IRepository.cs",
+              "RelativeDocumentMoniker": "AccessControlSystem\\Repositories\\Contracts\\IRepository.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\Exam\\AccessControlSystem\\Repositories\\Contracts\\IRepository.cs",
+              "RelativeToolTip": "AccessControlSystem\\Repositories\\Contracts\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:41:29.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\Exam\\AccessControlSystem\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "AccessControlSystem\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\Exam\\AccessControlSystem\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "AccessControlSystem\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwB8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:38:46.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SecurityZoneRepository.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\Exam\\AccessControlSystem\\Repositories\\SecurityZoneRepository.cs",
+              "RelativeDocumentMoniker": "AccessControlSystem\\Repositories\\SecurityZoneRepository.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\Exam\\AccessControlSystem\\Repositories\\SecurityZoneRepository.cs",
+              "RelativeToolTip": "AccessControlSystem\\Repositories\\SecurityZoneRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:44:12.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FinanceDepartment.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\Exam\\AccessControlSystem\\Models\\FinanceDepartment.cs",
+              "RelativeDocumentMoniker": "AccessControlSystem\\Models\\FinanceDepartment.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\Exam\\AccessControlSystem\\Models\\FinanceDepartment.cs",
+              "RelativeToolTip": "AccessControlSystem\\Models\\FinanceDepartment.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:31:08.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ITSpecialist.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\Exam\\AccessControlSystem\\Models\\ITSpecialist.cs",
+              "RelativeDocumentMoniker": "AccessControlSystem\\Models\\ITSpecialist.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\Exam\\AccessControlSystem\\Models\\ITSpecialist.cs",
+              "RelativeToolTip": "AccessControlSystem\\Models\\ITSpecialist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:15:24.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HRDepartment.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\Exam\\AccessControlSystem\\Models\\HRDepartment.cs",
+              "RelativeDocumentMoniker": "AccessControlSystem\\Models\\HRDepartment.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\Exam\\AccessControlSystem\\Models\\HRDepartment.cs",
+              "RelativeToolTip": "AccessControlSystem\\Models\\HRDepartment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:30:34.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GeneralEmployee.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# OOP\\Exam\\AccessControlSystem\\Models\\GeneralEmployee.cs",
+              "RelativeDocumentMoniker": "AccessControlSystem\\Models\\GeneralEmployee.cs",
+              "ToolTip": "C:\\SoftUni\\C# OOP\\Exam\\AccessControlSystem\\Models\\GeneralEmployee.cs",
+              "RelativeToolTip": "AccessControlSystem\\Models\\GeneralEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:14:41.743Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
